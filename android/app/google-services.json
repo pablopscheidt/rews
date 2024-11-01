@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330798272151",
+    "project_id": "rews-702b3",
+    "storage_bucket": "rews-702b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330798272151:android:f3810835272156627c63d2",
+        "android_client_info": {
+          "package_name": "com.package.rews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWyTL-Hi4BVqEoZCZULnvt8fBdnAqiGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
