@@ -9,14 +9,33 @@ class CheiaMonitorScreen extends StatefulWidget {
 
 class _CheiaMonitorScreenState extends State<CheiaMonitorScreen> {
   double nivelRio = 0.0;
+  bool isLoading = true;  // Variável para controlar o estado de carregamento.
+  String errorMessage = '';  // Para exibir mensagens de erro caso necessário.
 
-  Future<void> _fetchNivelRio() async {
-    final response = await http.get(Uri.parse('http://localhost:3000/nivelRio'));
-    final data = json.decode(response.body);
+Future<void> _fetchNivelRio() async {
+  try {
+    final response = await http.get(Uri.parse('http://127.0.0.1:3000/api/nivelRio'));
+    if (response.statusCode == 200) {
+      final data = json.decode(response.body);
+      setState(() {
+        nivelRio = data['nivel'] ?? 0.0; // Atualize com o campo correto do JSON
+        isLoading = false;
+      });
+    } else {
+      setState(() {
+        isLoading = false;
+        errorMessage = 'Erro ao carregar dados do nível do rio';
+      });
+    }
+  } catch (e) {
     setState(() {
-      nivelRio = data['main']['temp'];
+      isLoading = false;
+      errorMessage = 'Erro de conexão: $e';
     });
   }
+}
+
+
 
   @override
   void initState() {
@@ -29,7 +48,11 @@ class _CheiaMonitorScreenState extends State<CheiaMonitorScreen> {
     return Scaffold(
       appBar: AppBar(title: Text("Monitoramento de Cheias")),
       body: Center(
-        child: Text("Nível do rio: $nivelRio"),
+        child: isLoading
+            ? CircularProgressIndicator()
+            : errorMessage.isNotEmpty
+                ? Text(errorMessage)
+                : Text("Nível do rio: $nivelRio m"),
       ),
     );
   }
