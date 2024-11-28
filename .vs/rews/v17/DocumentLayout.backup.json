@@ -70,7 +70,8 @@
               "RelativeToolTip": "assets\\fonts\\RedHatDisplay-Bold.ttf",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-11-28T02:20:26.529Z"
+              "WhenOpened": "2024-11-28T02:20:26.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,7 +83,8 @@
               "RelativeToolTip": "assets\\fonts\\RedHatDisplay-Regular.ttf",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-11-28T02:20:16.725Z"
+              "WhenOpened": "2024-11-28T02:20:16.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +96,8 @@
               "RelativeToolTip": "web\\styles.css",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-28T02:07:35.775Z"
+              "WhenOpened": "2024-11-28T02:07:35.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +109,8 @@
               "RelativeToolTip": "lib\\screens\\login_screen.dart",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-28T00:45:54.665Z"
+              "WhenOpened": "2024-11-28T00:45:54.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +122,8 @@
               "RelativeToolTip": "lib\\screens\\tela_opcao.dart",
               "ViewState": "AgIAAB4AAAAAAAAAAAAgwDoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-28T00:45:40.849Z"
+              "WhenOpened": "2024-11-28T00:45:40.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +135,8 @@
               "RelativeToolTip": "web\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-24T00:35:07.635Z"
+              "WhenOpened": "2024-11-24T00:35:07.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -142,7 +148,8 @@
               "RelativeToolTip": "android\\settings.gradle",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-24T00:34:34.791Z"
+              "WhenOpened": "2024-11-24T00:34:34.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +161,8 @@
               "RelativeToolTip": "lib\\main.dart",
               "ViewState": "AgIAAG4AAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-23T03:14:07.877Z"
+              "WhenOpened": "2024-11-23T03:14:07.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -166,7 +174,8 @@
               "RelativeToolTip": "pubspec.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-23T03:04:47.742Z"
+              "WhenOpened": "2024-11-23T03:04:47.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -178,7 +187,8 @@
               "RelativeToolTip": "android\\app\\src\\main\\res\\values\\strings.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-11-23T03:04:03.349Z"
+              "WhenOpened": "2024-11-23T03:04:03.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +213,8 @@
               "RelativeToolTip": "android\\app\\src\\main\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-11-23T03:04:22.209Z"
+              "WhenOpened": "2024-11-23T03:04:22.209Z",
+              "EditorCaption": ""
             }
           ]
         }

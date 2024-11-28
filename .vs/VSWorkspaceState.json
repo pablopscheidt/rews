@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\android",
-    "\\android\\app",
-    "\\android\\app\\src",
-    "\\android\\app\\src\\main",
-    "\\android\\app\\src\\main\\java\\io",
-    "\\android\\app\\src\\main\\java\\io\\flutter",
-    "\\android\\app\\src\\main\\java\\io\\flutter\\plugins",
-    "\\android\\app\\src\\main\\res",
-    "\\android\\app\\src\\main\\res\\values"
+    "\\lib",
+    "\\lib\\screens"
   ],
-  "SelectedNode": "\\lib\\screens\\map_screen.dart",
   "PreviewInSolutionExplorer": false
 }
